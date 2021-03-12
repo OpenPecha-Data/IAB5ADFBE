@@ -5,11 +5,13 @@ source_metadata:
   title: མཉེན་ཆས་མ་ལག་རྩིས་འཕྲུལ་ཁོག་ཏུ་འཇོག་ལུགས་དང་པོའི་ལས་ཅན་འཇུག་པའི་སྒོ།
   author: ''
   volumes:
-    4eef41d2aa694db696b46f92f7cb8502:
+    c9b72ae1720947d09eb593fe5bad5145:
       image_group_id: I2PD20730
-      title: ''
+      title: Volume 1 of mnyen chas ma lag rtsis 'phrul khog tu 'jog lugs dang po'i
+        las can 'jug pa'i sgo/
       volume_number: 1
       total_pages: 44
+      base_file: v001.txt
 ebook_metadata:
   title: མཉེན་ཆས་མ་ལག་རྩིས་འཕྲུལ་ཁོག་ཏུ་འཇོག་ལུགས་དང་པོའི་ལས་ཅན་འཇུག་པའི་སྒོ།
   author: ''
